@@ -1,5 +1,5 @@
 git init -- ilk kez proje oluştururken kullanılan komut
-git add <file> ve git add .<all> -- init edilen projeye dosya eklerken kullanılan komut.
+git add <fileName> ve (git add .<all>) -- init edilen projeye dosya eklerken kullanılan komut.
 git commit -m 'açıklama' -- projeye eklenen dosyaları lokal ya da uzak repository e gönderirken kullanılan komut.
 git status -- dosyaların durumu hakkında bilgi almak için,
 git diff -- dosyalar üzerinde yapılan değişiklikleri görmek için kullanılan komut.
