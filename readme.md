@@ -2,5 +2,5 @@
 
 ## Alt Bilgi
 myfirstwebcite project
-nurullahkucuk
+Patika github dersleri
 [lorem ipsum](http://google.com)
