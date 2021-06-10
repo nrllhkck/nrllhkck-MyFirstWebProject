@@ -1,0 +1,8 @@
+git init -- ilk kez proje oluştururken kullanılan komut
+git add <file> ve git add .<all> -- init edilen projeye dosya eklerken kullanılan komut.
+git commit -m 'açıklama' -- projeye eklenen dosyaları lokal ya da uzak repository e gönderirken kullanılan komut.
+git status -- dosyaların durumu hakkında bilgi almak için,
+git diff -- dosyalar üzerinde yapılan değişiklikleri görmek için kullanılan komut.
+git checkout branchName -- 
+git push -u origin main -- ile dosyalarımızı uzak repository e gönderiyoruz.
+git pull-- ile uzak repository üzerinde değişiklik yapılırsa bunu lokale çekmek için kullanıyoruz.
